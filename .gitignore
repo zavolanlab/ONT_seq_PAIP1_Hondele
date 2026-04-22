@@ -5,7 +5,7 @@ configuration
 *.env
 
 # EXCEPT for the safe template (force Git to track this one)
-!TemperatureDependentCelegansAging_Spang.template.env
+!ONT_seq_PAIP1_Hondele.template.env
 
 # ========================
 # 2. Snakemake Hidden Files
@@ -28,7 +28,7 @@ __pycache__/
 # all jupyter notebooks...
 *.ipynb
 # except the currently prepared notebook
-!TemperatureDependentCelegansAging_Spang.current.ipynb
+!ONT_seq_PAIP1_Hondele.current.ipynb
 
 # ========================
 # 4. Hugging Face Uploading script with FILLED IN token
@@ -51,3 +51,9 @@ WF/.cache/
 # Environment and tool caches
 .java/
 .cache/
+
+# Nextflow temporary files and outputs
+work/
+.nextflow/
+.nextflow.log*
+results/
