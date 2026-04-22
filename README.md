@@ -22,6 +22,14 @@ Currently, we're analyzing the cDNA nanopore ONT sequencing data from human PAIP
 ## Data from external databases/resources
 !Attention: clicking on links below will automatically start downloading of big files.
 
+**Human genome and annotation**
+
+[primary genome assembly hg38 from GENCODE .fasta](https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_49/GRCh38.primary_assembly.genome.fa.gz)
+
+[BASIC genome annotation for hg38 v42, .gtf](https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_42/gencode.v42.primary_assembly.basic.annotation.gtf.gz)
+
+[Comprehensive genome annotation for hg38 v42, .gtf](https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_42/gencode.v42.primary_assembly.annotation.gtf.gz)
+
 **Drosophila genome and annotation**
 
 [primary genome BDGP6 from Ensembl release-115, .fasta](https://ftp.ensembl.org/pub/release-115/fasta/drosophila_melanogaster/dna/Drosophila_melanogaster.BDGP6.54.dna.toplevel.fa.gz)
