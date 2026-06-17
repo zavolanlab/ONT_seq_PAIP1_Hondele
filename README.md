@@ -1,4 +1,5 @@
 # The landscape of polyA tail length changes linked to PAIP1 regulation, based on nanopore cDNA sequencing (In collaboration with Maria Hondele lab) - Analysis and Pipelines
+[![DOI](https://zenodo.org/badge/1217776491.svg)](https://doi.org/10.5281/zenodo.20729199)
 
 This repository contains the computational workflows and downstream analysis notebooks related to the polyA tail length changes linked to PAIP1 perturbations, conducted by the lab of Prof. Maria Hondele.
 
